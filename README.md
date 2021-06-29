@@ -1,103 +1,139 @@
 {
-            "suggestions_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client\u003d{google:suggestClient}\u0026gs_ri\u003d{google:suggestRid}\u0026xssi\u003dt\u0026q\u003d{searchTerms}\u0026{google:inputType}{google:omniboxFocusType}{google:cursorPosition}{google:currentPageUrl}{google:pageClassification}{google:searchVersion}{google:sessionToken}{google:prefetchQuery}sugkey\u003d{google:suggestAPIKeyParameter}",
-            "image_url_post_params": "encoded_image\u003d{google:imageThumbnail},image_url\u003d{google:imageURL},sbisrc\u003d{google:imageSearchSource},original_width\u003d{google:imageOriginalWidth},original_height\u003d{google:imageOriginalHeight}",
-            "favicon_url": "https://www.google.com/favicon.ico",
-            "safe_for_autoreplace": true,
-            "date_created": 0,
-            "image_url": "{google:baseURL}searchbyimage/upload",
-            "url": "{google:baseURL}search?q\u003d{searchTerms}\u0026{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie\u003d{inputEncoding}",
-            "new_tab_url": "",
-            "originating_url": "",
-            "sync_guid": "22b42661-b2ea-4930-94be-77900d0d4158",
-            "short_name": "Google",
-            "keyword": "google.com",
-            "input_encodings": "UTF-8",
-            "alternate_urls": [
-                        "{google:baseURL}#q\u003d{searchTerms}",
-                        "{google:baseURL}search#q\u003d{searchTerms}",
-                        "{google:baseURL}webhp#q\u003d{searchTerms}",
-                        "{google:baseURL}s#q\u003d{searchTerms}",
-                        "{google:baseURL}s?q\u003d{searchTerms}"
-            ],
-            "prepopulate_id": 1,
-            "last_modified": 0
+    "Apps": [
+        {
+            "app_launch_ordinal": "zzzy",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Web Store",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
 },
         {
-            "suggestions_url": "https://www.bing.com/osjson.aspx?query\u003d{searchTerms}\u0026language\u003d{language}\u0026PC\u003dU316",
-            "image_url_post_params": "imageBin\u003d{google:imageThumbnailBase64}",
-            "favicon_url": "https://www.bing.com/sa/simg/bing_p_rr_teal_min.ico",
-            "safe_for_autoreplace": true,
-            "date_created": 0,
-            "image_url": "https://www.bing.com/images/detail/search?iss\u003dsbiupload\u0026FORM\u003dCHROMI#enterInsights",
-            "url": "https://www.bing.com/search?q\u003d{searchTerms}\u0026PC\u003dU316\u0026FORM\u003dCHROMN",
-            "new_tab_url": "https://www.bing.com/chrome/newtab",
-            "originating_url": "",
-            "sync_guid": "3c8eef47-bdee-4513-b30b-d2fc72ee9d6e",
-            "short_name": "Bing",
-            "keyword": "bing.com",
-            "input_encodings": "UTF-8",
-            "prepopulate_id": 3,
-            "last_modified": 13217014738873083
+            "app_launch_ordinal": "n",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Chrome",
+                        "id": "mgndgikekgjfcpckkfioiadnlibdjbkf",
+                        "version": "0.1",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+}
+    ],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "settings.resolve_timezone_by_geolocation_migrated_to_method",
+            "value": "true"
 },
         {
-            "suggestions_url": "https://search.yahoo.com/sugg/chrome?output\u003dfxjson\u0026appid\u003dcrmas\u0026command\u003d{searchTerms}",
-            "favicon_url": "https://search.yahoo.com/favicon.ico",
-            "safe_for_autoreplace": true,
-            "date_created": 0,
-            "url": "https://search.yahoo.com/search{google:pathWildcard}?ei\u003d{inputEncoding}\u0026fr\u003dcrmas\u0026p\u003d{searchTerms}",
-            "new_tab_url": "",
-            "originating_url": "",
-            "sync_guid": "f08c0ecb-ac6e-4b5e-81af-66cfe586aa6c",
-            "short_name": "Yahoo!",
-            "keyword": "yahoo.com",
-            "input_encodings": "UTF-8",
-            "prepopulate_id": 2,
-            "last_modified": 13217014738873092
+            "name": "settings.language.enabled_extension_imes_syncable",
+            "value": "\"\""
 },
         {
-            "suggestions_url": "https://duckduckgo.com/ac/?q\u003d{searchTerms}\u0026type\u003dlist",
-            "favicon_url": "https://duckduckgo.com/favicon.ico",
-            "safe_for_autoreplace": true,
-            "date_created": 0,
-            "url": "https://duckduckgo.com/?q\u003d{searchTerms}",
-            "new_tab_url": "https://duckduckgo.com/chrome_newtab",
-            "originating_url": "",
-            "sync_guid": "485bf7d3-0215-45af-87dc-538868000092",
-            "short_name": "DuckDuckGo",
-            "keyword": "duckduckgo.com",
-            "input_encodings": "UTF-8",
-            "prepopulate_id": 92,
-            "last_modified": 13217014738873106
+            "name": "profile.content_settings.exceptions.midi_sysex",
+            "value": "{}"
 },
         {
-            "suggestions_url": "",
-            "favicon_url": "https://www.amazon.com/favicon.ico",
-            "safe_for_autoreplace": true,
-            "date_created": 13223721639738934,
-            "url": "https://www.amazon.com/s/ref\u003dnb_sb_noss?url\u003dsearch-alias%3Daps\u0026field-keywords\u003d{searchTerms}",
-            "new_tab_url": "",
-            "originating_url": "",
-            "sync_guid": "3641c7fb-7176-48f0-ad3f-1cc73bc56557",
-            "short_name": "amazon.com",
-            "keyword": "amazon.com",
-            "input_encodings": "UTF-8",
-            "prepopulate_id": 0,
-            "last_modified": 13223721639738934
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
 },
         {
-            "suggestions_url": "",
-            "favicon_url": "https://s.ytimg.com/yts/img/favicon_32-vflOogEID.png",
-            "safe_for_autoreplace": true,
-            "date_created": 13223722853733114,
-            "url": "https://www.youtube.com/results?search_query\u003d{searchTerms}\u0026page\u003d{startPage?}\u0026utm_source\u003dopensearch",
-            "new_tab_url": "",
-            "originating_url": "https://www.youtube.com/opensearch?locale\u003den_US",
-            "sync_guid": "463075c4-747c-407f-830d-e093e8729f12",
-            "short_name": "YouTube",
-            "keyword": "youtube.com",
-            "input_encodings": "",
-            "prepopulate_id": 0,
-            "last_modified": 13223722853733114
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "settings.language.preload_engines_syncable",
+            "value": "\"xkb:us::eng\""
+},
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{}"
+},
+        {
+            "name": "autofill.profile_use_dates_fixed",
+            "value": "true"
+},
+        {
+            "name": "profile.avatar_index",
+            "value": "3"
+},
+        {
+            "name": "settings.language.preferred_languages_syncable",
+            "value": "\"en-US,en\""
+},
+        {
+            "name": "profile.name",
+            "value": "\"User 3\""
+},
+        {
+            "name": "browser.clear_data.time_period_basic",
+            "value": "0"
+},
+        {
+            "name": "browser.clear_data.cookies_basic",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.cache_basic",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.browsing_history_basic",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.preferences_migrated_to_basic",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{\"https://fueled.brightspace.com:443,*\":{\"last_modified\":\"13169581341054392\",\"setting\":1}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.plugins",
+            "value": "{\"https://fueled.brightspace.com:443,*\":{\"last_modified\":\"13169581338702154\",\"setting\":1},\"https://ltsrv.myloweslife.com:443,*\":{\"last_modified\":\"13177969213368575\",\"setting\":1}}"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13220574795725755\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQghRUqAHjZgFWcfe6TMOcC8KtLOJshpeeXhJ0YQHTMI36hRANCAARViD66X3XI+x26W22wgpl3pXSh/MXSWfjE5W5F9ItjWpVAxEGam/xkkhKof5IP/0rLvyCZjdxTZfACh9xa6Rnj\"}"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.flash_data",
+            "value": "{\"https://fueled.brightspace.com:443,*\":{\"last_modified\":\"13177035101704907\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://ltsrv.myloweslife.com:443,*\":{\"last_modified\":\"13177969213368738\",\"setting\":{\"flashPreviouslyChanged\":true}}}"
+},
+        {
+            "name": "sharing.synced_devices",
+            "value": "{\"CM+UaPIcwb3XoJm9gqdAQA\u003d\u003d\":{\"device_auth_secret\":\"aQhvhUPaZ2cPeADAWMuxVA\u003d\u003d\",\"device_capabilities\":2,\"device_fcm_token\":\"c0x8-HR-NBA:APA91bGHjZ9J7bFYGTJIPVEeSEHM-4Csli4OHZDKKUE0S7XstpUd9Aqg8fhIxAhrqRVG_pSbHixjmQ0vWy37yFzDMWvPZjCPTaNu6OwA-4tmTAHV9TlcN-H5zYdjE__iuQ4P7uVLGwkC\",\"device_last_updated\":\"13223075945919857\",\"device_p256dh\":\"BP8aBe2Oz5NPLhyBilTjTtlftakT3lnzuZOA7FYwPAoKM2ic0TnJQD0iZyDEDOAKLBYyTGFjFIX49G6poEzQvQU\u003d\"}}"
+},
+        {
+            "name": "extensions.toolbar",
+            "value": "[\"efaidnbmnnnibpcajpcglclefindmkaj\"]"
+}
+    ],
+    "Themes": [
+        {
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
 }
     ]
 }
