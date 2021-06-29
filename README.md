@@ -1,139 +1,390 @@
+[{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.adups.fota"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-16T05:41:22.053Z"
+  }
+},
 {
-    "Apps": [
-        {
-            "app_launch_ordinal": "zzzy",
-            "extension": {
-                        "incognito_enabled": true,
-                        "remote_install": false,
-                        "disable_reasons": 0,
-                        "installed_by_custodian": false,
-                        "update_url": "",
-                        "name": "Web Store",
-                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
-                        "version": "0.2",
-                        "enabled": true
-            },
-            "page_ordinal": "n"
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.speechservices"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546009Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-16T05:41:22.053Z"
+  }
 },
-        {
-            "app_launch_ordinal": "n",
-            "extension": {
-                        "incognito_enabled": true,
-                        "remote_install": false,
-                        "disable_reasons": 0,
-                        "installed_by_custodian": false,
-                        "update_url": "",
-                        "name": "Chrome",
-                        "id": "mgndgikekgjfcpckkfioiadnlibdjbkf",
-                        "version": "0.1",
-                        "enabled": true
-            },
-            "page_ordinal": "n"
-}
-    ],
-    "App Settings": [],
-    "Preferences": [
-        {
-            "name": "settings.resolve_timezone_by_geolocation_migrated_to_method",
-            "value": "true"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail Go"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546015Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-16T05:41:22.053Z"
+  }
 },
-        {
-            "name": "settings.language.enabled_extension_imes_syncable",
-            "value": "\"\""
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Instagram"
+    },
+    "firstInstallationTime": "2019-10-06T03:16:24.677001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-16T05:22:35.031Z"
+  }
 },
-        {
-            "name": "profile.content_settings.exceptions.midi_sysex",
-            "value": "{}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2019-10-06T03:16:24.677Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-12T05:11:57.910Z"
+  }
 },
-        {
-            "name": "profile.content_settings.exceptions.javascript",
-            "value": "{}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube Kids"
+    },
+    "firstInstallationTime": "2019-10-06T03:18:32.038Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T09:44:23.742Z"
+  }
 },
-        {
-            "name": "profile.content_settings.exceptions.cookies",
-            "value": "{}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546020Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-09T21:39:14.437Z"
+  }
 },
-        {
-            "name": "settings.language.preload_engines_syncable",
-            "value": "\"xkb:us::eng\""
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Services"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546017Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:04:48.893Z"
+  }
 },
-        {
-            "name": "profile.content_settings.exceptions.images",
-            "value": "{}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Navigation for Google Maps Go"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546005Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:05:27.041Z"
+  }
 },
-        {
-            "name": "profile.content_settings.exceptions.automatic_downloads",
-            "value": "{}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Go: A lighter, faster way to search"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546008Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:05:27.041Z"
+  }
 },
-        {
-            "name": "autofill.profile_use_dates_fixed",
-            "value": "true"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Clock"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546013Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:06:12.658Z"
+  }
 },
-        {
-            "name": "profile.avatar_index",
-            "value": "3"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messages"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:06:50.296Z"
+  }
 },
-        {
-            "name": "settings.language.preferred_languages_syncable",
-            "value": "\"en-US,en\""
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Files by Google: Clean up space on your phone"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546006Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:07:41.476Z"
+  }
 },
-        {
-            "name": "profile.name",
-            "value": "\"User 3\""
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-12T05:13:32.287Z"
+  }
 },
-        {
-            "name": "browser.clear_data.time_period_basic",
-            "value": "0"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Maps Go - Directions, Traffic \u0026 Transit"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:09:33.031Z"
+  }
 },
-        {
-            "name": "browser.clear_data.cookies_basic",
-            "value": "true"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546007Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:10:17.529Z"
+  }
 },
-        {
-            "name": "browser.clear_data.cache_basic",
-            "value": "true"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Contacts"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546012Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-16T05:23:55.797Z"
+  }
 },
-        {
-            "name": "browser.clear_data.browsing_history_basic",
-            "value": "true"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Phone by Google - Caller ID \u0026 Spam Protection"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546014Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T09:43:40.775Z"
+  }
 },
-        {
-            "name": "browser.clear_data.preferences_migrated_to_basic",
-            "value": "true"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Calculator"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546010Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:12:04.907Z"
+  }
 },
-        {
-            "name": "profile.content_settings.exceptions.popups",
-            "value": "{\"https://fueled.brightspace.com:443,*\":{\"last_modified\":\"13169581341054392\",\"setting\":1}}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546018Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-12T05:14:49.932Z"
+  }
 },
-        {
-            "name": "profile.content_settings.exceptions.plugins",
-            "value": "{\"https://fueled.brightspace.com:443,*\":{\"last_modified\":\"13169581338702154\",\"setting\":1},\"https://ltsrv.myloweslife.com:443,*\":{\"last_modified\":\"13177969213368575\",\"setting\":1}}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546019Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:15:43.389Z"
+  }
 },
-        {
-            "name": "sharing.vapid_key",
-            "value": "{\"vapid_creation_timestamp\":\"13220574795725755\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQghRUqAHjZgFWcfe6TMOcC8KtLOJshpeeXhJ0YQHTMI36hRANCAARViD66X3XI+x26W22wgpl3pXSh/MXSWfjE5W5F9ItjWpVAxEGam/xkkhKof5IP/0rLvyCZjdxTZfACh9xa6Rnj\"}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546021Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-09T21:38:30.089Z"
+  }
 },
-        {
-            "name": "translate_site_blacklist_with_time",
-            "value": "{}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Find Wifi by TruConnect - No Data? No Problem!"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546022Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:16:53.755Z"
+  }
 },
-        {
-            "name": "profile.content_settings.exceptions.flash_data",
-            "value": "{\"https://fueled.brightspace.com:443,*\":{\"last_modified\":\"13177035101704907\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://ltsrv.myloweslife.com:443,*\":{\"last_modified\":\"13177969213368738\",\"setting\":{\"flashPreviouslyChanged\":true}}}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Calendar"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546011Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T01:17:35.670Z"
+  }
 },
-        {
-            "name": "sharing.synced_devices",
-            "value": "{\"CM+UaPIcwb3XoJm9gqdAQA\u003d\u003d\":{\"device_auth_secret\":\"aQhvhUPaZ2cPeADAWMuxVA\u003d\u003d\",\"device_capabilities\":2,\"device_fcm_token\":\"c0x8-HR-NBA:APA91bGHjZ9J7bFYGTJIPVEeSEHM-4Csli4OHZDKKUE0S7XstpUd9Aqg8fhIxAhrqRVG_pSbHixjmQ0vWy37yFzDMWvPZjCPTaNu6OwA-4tmTAHV9TlcN-H5zYdjE__iuQ4P7uVLGwkC\",\"device_last_updated\":\"13223075945919857\",\"device_p256dh\":\"BP8aBe2Oz5NPLhyBilTjTtlftakT3lnzuZOA7FYwPAoKM2ic0TnJQD0iZyDEDOAKLBYyTGFjFIX49G6poEzQvQU\u003d\"}}"
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger – Text and Video Chat for Free"
+    },
+    "firstInstallationTime": "2019-10-09T15:34:31.498Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-12T05:10:07.279Z"
+  }
 },
-        {
-            "name": "extensions.toolbar",
-            "value": "[\"efaidnbmnnnibpcajpcglclefindmkaj\"]"
-}
-    ],
-    "Themes": [
-        {
-            "use_system_theme_by_default": false,
-            "use_custom_theme": false
-}
-    ]
-}
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Twitter"
+    },
+    "firstInstallationTime": "2019-10-09T16:03:40.963Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-16T05:41:22.053Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Wish - Shopping Made Fun"
+    },
+    "firstInstallationTime": "2019-10-10T07:05:08.083Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-10T07:05:08.083Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-10-06T03:08:37.546016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-10T07:22:01.817Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Starbucks"
+    },
+    "firstInstallationTime": "2019-10-11T15:28:32.330Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-11T15:28:32.330Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Chase Mobile"
+    },
+    "firstInstallationTime": "2019-10-11T15:30:51.205Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-11T15:30:51.205Z"
+  }
+}]
